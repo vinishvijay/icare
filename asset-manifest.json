@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/icare/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/icare/static/js/main.6e07bf1a.chunk.js",
+    "main.js.map": "/icare/static/js/main.6e07bf1a.chunk.js.map",
+    "runtime-main.js": "/icare/static/js/runtime-main.a3594224.js",
+    "runtime-main.js.map": "/icare/static/js/runtime-main.a3594224.js.map",
+    "static/css/2.eca8f0dc.chunk.css": "/icare/static/css/2.eca8f0dc.chunk.css",
+    "static/js/2.4751309d.chunk.js": "/icare/static/js/2.4751309d.chunk.js",
+    "static/js/2.4751309d.chunk.js.map": "/icare/static/js/2.4751309d.chunk.js.map",
+    "static/js/3.cc78a235.chunk.js": "/icare/static/js/3.cc78a235.chunk.js",
+    "static/js/3.cc78a235.chunk.js.map": "/icare/static/js/3.cc78a235.chunk.js.map",
+    "index.html": "/icare/index.html",
+    "static/css/2.eca8f0dc.chunk.css.map": "/icare/static/css/2.eca8f0dc.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/icare/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4751309d.chunk.js.LICENSE.txt": "/icare/static/js/2.4751309d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3594224.js",
+    "static/css/2.eca8f0dc.chunk.css",
+    "static/js/2.4751309d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6e07bf1a.chunk.js"
+  ]
+}
